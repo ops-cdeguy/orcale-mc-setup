@@ -18,7 +18,7 @@ An automated Bash script to spin up a high-performance Purpur Minecraft Server o
 SSH into your Ubuntu VM and run this single command:
 
 ```bash
-git clone [https://github.com/ops-cdeguy/orcale-mc-setup.git](https://github.com/ops-cdeguy/orcale-mc-setup.git)
+git clone https://github.com/ops-cdeguy/orcale-mc-setup.git
 cd orcale-mc-setup
 chmod +x setup.sh
 ./setup.sh
